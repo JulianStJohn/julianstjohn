@@ -3,4 +3,4 @@ So, after 12 years of using chrome I thought to ask what `== $0` means beside th
 
 ![](./images/inspect-element.jpg)
 
-~[](./images/dev-console.jpg)
+![](./images/dev-console.jpg)
